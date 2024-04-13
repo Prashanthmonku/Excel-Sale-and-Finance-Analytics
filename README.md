@@ -24,6 +24,8 @@ Sales reports play a vital role in decision-making processes. They help in deter
 
   - 2. Generate [Profit and Loss (P&L) reports by market](https://github.com/Prashanthmonku/Excel-Sale-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) segments to assess profitability across different market areas.
 
+  - 3. Prepared [Top and Bottom 5 products](https://github.com/Prashanthmonku/Excel-Sale-and-Finance-Analytics/blob/main/Top%205%20and%20Bottom%205%20Products.pdf) to know the perfomance of the product.
+
 - **Purpose of Finance Analytics:**
 Finance analytics involves evaluating financial performance metrics to support decision-making processes and facilitate communication with stakeholders. It helps in understanding financial trends, identifying areas for improvement, and making informed strategic decisions.
 
