@@ -3,9 +3,9 @@
 ## Sales Report:
 - **Project Objective:**
 
-  - 1. Create a _[customer performance report] that delves into various aspects of customer interactions and their impact on sales.
+  - 1. Create a [Customer Performance Report](https://github.com/Prashanthmonku/Excel-Sale-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) that delves into various aspects of customer interactions and their impact on sales.
 
-  - 2. Conduct a comprehensive comparison between market _[performance metrics and predefined sales targets] to assess performance against goals.
+  - 2. Conduct a comprehensive comparison between [Market performance metrics and predefined Sales Targets](https://github.com/Prashanthmonku/Excel-Sale-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) to assess performance against goals.
 
 - **Purpose of Sales Analytics:**
 The purpose of sales analytics is to empower businesses by providing insights into their sales activities and performance. It helps in understanding customer behavior, identifying trends, and optimizing sales strategies.
@@ -20,9 +20,9 @@ Sales reports play a vital role in decision-making processes. They help in deter
 ## Finance Report:
 - **Project Objective:**
 
-  - 1. Create _[Profit and Loss (P&L) reports by fiscal year] to analyze financial performance over time.
+  - 1. Create [Profit and Loss (P&L) reports by fiscal year](https://github.com/Prashanthmonku/Excel-Sale-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) to analyze financial performance over time.
 
-  - 2. Generate _[Profit and Loss (P&L) reports by market] segments to assess profitability across different market areas.
+  - 2. Generate [Profit and Loss (P&L) reports by market](https://github.com/Prashanthmonku/Excel-Sale-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) segments to assess profitability across different market areas.
 
 - **Purpose of Finance Analytics:**
 Finance analytics involves evaluating financial performance metrics to support decision-making processes and facilitate communication with stakeholders. It helps in understanding financial trends, identifying areas for improvement, and making informed strategic decisions.
