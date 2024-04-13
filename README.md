@@ -32,12 +32,12 @@ Analyzing finance data is critical for benchmarking against industry peers, asse
 Finance reports are essential for aligning financial planning with strategic goals, communicating financial performance to stakeholders, and instilling confidence in the organization's financial outlook.
 
 ##Technical & Soft Skills:
-- [x]Proficiency in ETL Methodology (Extract, Transform, Load): Ability to extract data from various sources, transform it into usable formats, and load it into a target database or data warehouse.
-- [x]Skills to Generate a Date Table Using Power Query: Capabilities in creating a date table for time-based analysis and reporting purposes using Power Query in tools like Power BI or Excel.
-- [x]Ability to Derive Fiscal Months and Quarters: Expertise in deriving fiscal periods such as months and quarters for financial analysis and reporting.
-- [x]Establishing Data Model Relationships with Power Pivot: Competence in creating and managing data model relationships using Power Pivot for efficient data analysis and visualization.
-- [x]Proficiency in Incorporating Supplementary Data into an Existing Data Model: Skill in integrating additional data sources or tables into an existing data model for comprehensive analysis.
-- [x]Utilizing DAX to Create Calculated Columns: Mastery in using Data Analysis Expressions (DAX) to create calculated columns for adding custom calculations and metrics to data models.
+- Proficiency in ETL Methodology (Extract, Transform, Load): Ability to extract data from various sources, transform it into usable formats, and load it into a target database or data warehouse.
+- Skills to Generate a Date Table Using Power Query: Capabilities in creating a date table for time-based analysis and reporting purposes using Power Query in tools like Power BI or Excel.
+- Ability to Derive Fiscal Months and Quarters: Expertise in deriving fiscal periods such as months and quarters for financial analysis and reporting.
+- Establishing Data Model Relationships with Power Pivot: Competence in creating and managing data model relationships using Power Pivot for efficient data analysis and visualization.
+- Proficiency in Incorporating Supplementary Data into an Existing Data Model: Skill in integrating additional data sources or tables into an existing data model for comprehensive analysis.
+- Utilizing DAX to Create Calculated Columns: Mastery in using Data Analysis Expressions (DAX) to create calculated columns for adding custom calculations and metrics to data models.
 ##Soft Skills:
 - [x]Refined Understanding of Sales & Finance Reports: Deep comprehension of sales and finance reporting methodologies, metrics, and best practices.
 - [x]Designing User-Centric Reports with Empathy in Mind: Ability to create reports that resonate with end-users, considering their needs, preferences, and user experience.
